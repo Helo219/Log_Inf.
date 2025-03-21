@@ -7,4 +7,6 @@ https://www.canva.com/design/DAGfsZElSZU/NhNi4byranUf3kdhLzlwTg/view?utm_content
 ## Segunda atividade: Usando fórmulas e dados abertos - Excel
 https://github.com/Helo219/Log_Inf./blob/main/Informatica_Aplicada_MariaHeloiza_Santos_Machado.xlsx
 ![image](https://github.com/user-attachments/assets/03d20508-236f-4aae-a44d-2f85464682b1)
+## Terceira atividade: Usando dados abertos - Power BI 
+![image](https://github.com/user-attachments/assets/bae131ee-b627-4e28-a064-019afa6112fb)
 
