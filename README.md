@@ -9,4 +9,5 @@ https://github.com/Helo219/Log_Inf./blob/main/Informatica_Aplicada_MariaHeloiza_
 ![image](https://github.com/user-attachments/assets/03d20508-236f-4aae-a44d-2f85464682b1)
 ## Terceira atividade: Usando dados abertos - Power BI 
 ![image](https://github.com/user-attachments/assets/bae131ee-b627-4e28-a064-019afa6112fb)
+![image](https://github.com/user-attachments/assets/4cd4bcfb-928a-465c-9505-dd8498969528)
 
