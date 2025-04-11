@@ -17,5 +17,6 @@ https://github.com/Helo219/Log_Inf./commit/491a195fc3d3592cd6c9c98befdca155e41ca
 ![image](https://github.com/user-attachments/assets/483caada-b590-474f-ab71-0a6c7ac31e77)
 ## Excel
 https://github.com/Helo219/Log_Inf./commit/0c36f47755a26e4291173b0917dd79f01c889c6e
-![image](https://github.com/user-attachments/assets/5352448d-4ab3-4cff-89b1-0f55a4ff3d02)
+![image](https://github.com/user-attachments/assets/043854b5-5b72-4c94-8631-c6438f110bf9)
+
 
