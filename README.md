@@ -12,7 +12,9 @@ https://github.com/Helo219/Log_Inf./commit/e77c57c338a01c10db83755b912c061654665
 ![image](https://github.com/user-attachments/assets/e942ed55-7f38-40ac-8902-c4324ce6efb9)
 https://github.com/Helo219/Log_Inf./blob/main/README.md
 ![image](https://github.com/user-attachments/assets/bae131ee-b627-4e28-a064-019afa6112fb)
-## Quarta atividade: Usando dados abertos - Power BI e github
+## Quarta atividade: Usando dados abertos - Power BI e github [Power bi]
 https://github.com/Helo219/Log_Inf./commit/491a195fc3d3592cd6c9c98befdca155e41ca147
-
+![image](https://github.com/user-attachments/assets/483caada-b590-474f-ab71-0a6c7ac31e77)
+##[Excel]
+https://github.com/Helo219/Log_Inf./commit/0c36f47755a26e4291173b0917dd79f01c889c6e
 
