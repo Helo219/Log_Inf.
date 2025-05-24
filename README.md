@@ -27,6 +27,7 @@ https://github.com/Helo219/Log_Inf./commit/0c36f47755a26e4291173b0917dd79f01c889
 ![image](https://github.com/user-attachments/assets/96641c48-5936-4626-b982-49ce4103e72a)
 
 ## Consumo de Cerveja
+https://github.com/Helo219/Log_Inf./commit/90b6587d687ea93dc2262f655709d11447a9e319
 ![image](https://github.com/user-attachments/assets/f11914e2-c97a-4865-a42f-86734fb7398b)
 
 ## Casas
