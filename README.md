@@ -22,4 +22,13 @@ https://github.com/Helo219/Log_Inf./commit/491a195fc3d3592cd6c9c98befdca155e41ca
 https://github.com/Helo219/Log_Inf./commit/0c36f47755a26e4291173b0917dd79f01c889c6e
 ![image](https://github.com/user-attachments/assets/043854b5-5b72-4c94-8631-c6438f110bf9)
 
+## Quinta Atividade: Regressão linear: Excel e Machine Learning - excel/ipynb
+## Sorveteria
+![image](https://github.com/user-attachments/assets/96641c48-5936-4626-b982-49ce4103e72a)
+
+## Consumo de Cerveja
+![image](https://github.com/user-attachments/assets/f11914e2-c97a-4865-a42f-86734fb7398b)
+
+## Casas
+![image](https://github.com/user-attachments/assets/7a27240c-ccf7-4bb2-81e0-ba9e3fe96d52)
 
