@@ -31,5 +31,6 @@ https://github.com/Helo219/Log_Inf./commit/90b6587d687ea93dc2262f655709d11447a9e
 ![image](https://github.com/user-attachments/assets/f11914e2-c97a-4865-a42f-86734fb7398b)
 
 ## Casas
+https://github.com/Helo219/Log_Inf./blob/main/MariaHeloiza_casa_informatica.ipynb
 ![image](https://github.com/user-attachments/assets/7a27240c-ccf7-4bb2-81e0-ba9e3fe96d52)
 
