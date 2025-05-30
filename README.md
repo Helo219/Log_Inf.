@@ -35,6 +35,19 @@ https://github.com/Helo219/Log_Inf./commit/90b6587d687ea93dc2262f655709d11447a9e
 https://github.com/Helo219/Log_Inf./blob/main/MariaHeloiza_casa_informatica.ipynb
 ![image](https://github.com/user-attachments/assets/7a27240c-ccf7-4bb2-81e0-ba9e3fe96d52)
 
-## Sexta Atividade: Regressão
+## Sexta Atividade: Custo Fixo, Variavel, Receita e Lucro
+Panela de pressão
+![image](https://github.com/user-attachments/assets/30c5f6ef-2028-456b-989d-c64bf52a5cfd)
 
+Produtos
+![image](https://github.com/user-attachments/assets/d380cd3f-603b-4cb5-a165-856e5d7d9d61)
+
+Sorvetes
+![image](https://github.com/user-attachments/assets/e859d958-f0b2-4b8a-a94c-c9cd954a6b0a)
+
+Peças de computadores
+![image](https://github.com/user-attachments/assets/43994026-9a12-44df-a542-f16940c0179c)
+
+Sandálias
+![image](https://github.com/user-attachments/assets/98c11f89-4273-4888-9436-66d8a151d17a)
 
