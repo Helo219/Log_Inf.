@@ -64,22 +64,22 @@ https://github.com/Helo219/Log_Inf./blob/main/MariaHeloiza_casa_informatica.ipyn
 --------------------------------------------------------------------------------------------|
 --------------------------------------------------------------------------------------------
 ## Peças de computadores
-![image](https://github.com/user-attachments/assets/43994026-9a12-44df-a542-f16940c0179c
+![Captura de tela 2025-06-13 194709](https://github.com/user-attachments/assets/d8da2d7d-5e64-415e-bd65-c33d60b7483e)
 -------------------------------------------------------------------------------------------|
 -------------------------------------------------------------------------------------------
 ## Sandálias
 ![image](https://github.com/user-attachments/assets/98c11f89-4273-4888-9436-66d8a151d17a)
 -------------------------------------------------------------------------------------------|
 
-----------------------------------------------
-| ## Sexta Ativida: Power Automate e Power Apps
+|Sexta Ativida: Power Automate e Power Apps
+--------------------------------------------|
 Power Apps
 ------------------------------------------------
 
 https://github.com/user-attachments/assets/98cd257c-defa-454a-9a89-59a22d871d2c
 
-## Power Automate
-
+| Power Automate
+---------------------|
 ![image](https://github.com/user-attachments/assets/767ba1d3-a501-4257-8430-075122c12ed4)
 
 
