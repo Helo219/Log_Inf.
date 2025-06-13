@@ -53,6 +53,9 @@ Sandálias
 
 ## Sexta Ativida: Power Automate e Power Apps
 Power Apps
-https://github.com/user-attachments/assets/4c7edbc5-64d8-4350-944c-5d05d20aef3d
+
+
+https://github.com/user-attachments/assets/98cd257c-defa-454a-9a89-59a22d871d2c
+
 
 
