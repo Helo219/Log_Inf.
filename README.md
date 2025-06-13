@@ -51,3 +51,8 @@ Peças de computadores
 Sandálias
 ![image](https://github.com/user-attachments/assets/98c11f89-4273-4888-9436-66d8a151d17a)
 
+## Sexta Ativida: Power Automate e Power Apps
+Power Apps
+https://github.com/user-attachments/assets/4c7edbc5-64d8-4350-944c-5d05d20aef3d
+
+
