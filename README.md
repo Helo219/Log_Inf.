@@ -1,11 +1,13 @@
 # Log_Inf.
 Aprendizado -  informática
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## Primeira atividade: Apresentação pessoal - Canva                                                                                                                          |
+https://www.canva.com/design/DAGfsZElSZU/NhNi4byranUf3kdhLzlwTg/view?utm_content=DAGfsZElSZU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d3dbf0781    
+![image](https://github.com/user-attachments/assets/0258b560-4602-42a2-b98e-b2be4f900134)                                                                                          
 
-## Primeira atividade: Apresentação pessoal - Canva
-https://www.canva.com/design/DAGfsZElSZU/NhNi4byranUf3kdhLzlwTg/view?utm_content=DAGfsZElSZU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d3dbf0781
-![image](https://github.com/user-attachments/assets/0258b560-4602-42a2-b98e-b2be4f900134)
-
-## Segunda atividade: Usando fórmulas e dados abertos - Excel
+---------------------------------------------------------------
+|## Segunda atividade: Usando fórmulas e dados abertos - Excel 
+---------------------------------------------------------------|
 https://github.com/Helo219/Log_Inf./blob/main/Informatica_Aplicada_MariaHeloiza_Santos_Machado.xlsx
 ![image](https://github.com/user-attachments/assets/03d20508-236f-4aae-a44d-2f85464682b1)
 
