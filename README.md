@@ -82,6 +82,17 @@ https://github.com/user-attachments/assets/98cd257c-defa-454a-9a89-59a22d871d2c
 ---------------------|
 ![image](https://github.com/user-attachments/assets/767ba1d3-a501-4257-8430-075122c12ed4)
 
+-------------------
+| Setima atividade
+-------------------
+Power Apps
+----------
+https://github.com/user-attachments/assets/83d90af2-a63d-41e0-891a-d2693b732085
+
+
+
+
+
 
 
 
