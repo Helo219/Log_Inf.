@@ -89,9 +89,12 @@ Power Apps
 ----------
 https://github.com/user-attachments/assets/83d90af2-a63d-41e0-891a-d2693b732085
 
-powerbi
+Powerbi
 
-https://github.com/user-attachments/assets/11c23e71-e906-4533-9614-5eb9e50b8d8f
+https://github.com/user-attachments/assets/ad27554b-c365-42a4-98c8-8fc902187e5f
+
+
+
 
 
 
